@@ -9,10 +9,10 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
  
------------------
+
 
 <p align="center">
-<a href="https://github.com/GlobalTechInfo"><img title="Author" src="![IMG-20241203-WA0037](https://github.com/user-attachments/assets/5b05f21f-75f0-42e9-a6ca-91a3580e1ff6)
+<a href="https://github.com/Lordhades-qp/Lady_Bug-v1"><img title="CYBER TECH ☢️" src="![IMG-20241203-WA0037](https://github.com/user-attachments/assets/5b05f21f-75f0-42e9-a6ca-91a3580e1ff6)
 ?style=for-the-badge&logo=github"></a>
 <p>
 
@@ -132,7 +132,7 @@ npm install && npm start
 
 | [![CYBER TECH ☢️](https://github.com/MissAri1.png?size=100)](https://github.com/MissAri1) |
 | --- |
-| [CYBER TECH ☢️](https://github.com/MissAri1) |
+| [ARIMA FORGER☢️](https://github.com/MissAri1) |
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
