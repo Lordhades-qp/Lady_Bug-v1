@@ -1,5 +1,7 @@
-# Lady_Bug-v1
-WhatsApp bugbot
-![Ladybug](https://github.com/user-attachments/assets/a43f05ce-c3fd-4410-b9be-e26e5d3ae761)
+###  **LADY_BUG_V1**
 
-# forks
+```WHATSAPP BOT MULTI DEVICE```
+
+
+![IMG-20241203-WA0037](https://github.com/user-attachments/assets/76c918a2-ca7c-4816-878c-6aa0d7607808)
+
